@@ -1,5 +1,7 @@
+// Java program to find sum, difference, product, quotient, remainder of two variable using static methods
+
 package Anudeep_pro.java;
-   // Java program to find sum, difference, product, quotient, remainder of two variable using static methods
+   
 public class Q13_b_Java_Ass {
 
     public static int add(int a, int b) {

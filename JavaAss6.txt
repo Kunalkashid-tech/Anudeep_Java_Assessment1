@@ -1,7 +1,9 @@
+ // Java program to check students result 'Pass' / 'Fail' using if-else statements
+
 package Anudeep_pro.java;
 
 import java.util.Scanner;
-   // Java program to check students result 'Pass' / 'Fail' using if-else statements
+  
 public class Q6_Java_Ass {
 
     public static void main(String[] args) {

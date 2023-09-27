@@ -1,7 +1,9 @@
+// Java program to check character is vowel or consonant
+
 package Anudeep_pro.java;
 
 import java.util.Scanner;
-   // Java program to check character is vowel or consonant
+   
 public class Q12_A_Java_Ass {
 
     public static void main(String[] args) {

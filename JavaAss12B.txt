@@ -1,7 +1,9 @@
+// Java program to check character is vowel or consonant by passing it to static method
+
 package Anudeep_pro.java;
   
 import java.util.Scanner;
-   // Java program to check character is vowel or consonant by passing it to static method
+   
 public class Q12_B_Java_Ass {
 
     public static String vowel(char ch) {

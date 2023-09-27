@@ -1,5 +1,7 @@
+// Java program to find area and perimeter of rectangle 
+
 package Anudeep_pro.java;
-   // Java program to find area and perimeter of rectangle 
+   
 public class Q11_A_Java_Ass {
 
     public static void main(String[] args) {

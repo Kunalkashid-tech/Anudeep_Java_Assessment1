@@ -1,6 +1,7 @@
+// Java program to find even numbers between 1 to 10 numbers using for loop.
+
 package Anudeep_pro.java;
 
-   // Java program to find even numbers between 1 to 10 numbers using for loop.
 public class Q8_A_Java_Ass {
 
     public static void main(String[] args) {

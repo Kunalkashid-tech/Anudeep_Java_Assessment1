@@ -1,5 +1,7 @@
+// Java program to initialize int array, string array and character array
+
 package Anudeep_pro.java;
-   // Java program to initialize int array, string array and character array
+   
 public class Q15_Java_Ass {
 
     public static void main(String[] args) {

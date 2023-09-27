@@ -1,5 +1,7 @@
+ // Java program to find area and circumference of cirlce using static methods
+
 package Anudeep_pro.java;
-   // Java program to find area and circumference of cirlce using static methods
+  
 public class Q10_B_Java_Ass {
 
     public static double area(double radius, double PI) {

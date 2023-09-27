@@ -1,7 +1,9 @@
+// Java program to perform mathematical operations using switch case statement.
+
 package Anudeep_pro.java;
 
 import java.util.Scanner;
-   // Java program to perform mathematical operations using switch case statement.
+   
 public class Q7_Java_Ass {
 
     public static void main(String[] args) {

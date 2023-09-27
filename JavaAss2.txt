@@ -1,5 +1,7 @@
+// Java program to find sum of five integers without using variables
+
 package Anudeep_pro.java;
-   // Java program to find sum of five integers without using variables
+   
 public class Q2_Java_Ass {
        
     public static void main(String[] args) {
