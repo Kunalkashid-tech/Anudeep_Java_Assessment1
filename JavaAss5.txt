@@ -1,0 +1,17 @@
+package Anudeep_pro.java;
+
+public class Q5_Java_Ass {
+       // Java program to find difference between two double variables
+    public static void main(String[] args) {
+
+	double num1 = 19.0;
+	double num2 = 10.0;
+		
+	System.out.println("Difference between double variable is : "+(num1 - num2));
+		
+	}
+}
+
+
+output :- 
+          Difference between double variable is : 9.0

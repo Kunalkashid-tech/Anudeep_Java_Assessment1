@@ -1,0 +1,31 @@
+package Anudeep_pro.java;
+    // Java program to find even numbers between 1 to 10 numbers using do-while loop. 
+public class Q8_C_Java_Ass {
+
+    public static void main(String[] args) {
+		
+        System.out.println("Even Numbers");
+
+        int i = 0;
+		
+	do {
+			
+	if(i % 2 == 0) {
+			
+        System.out.println(i);
+		}
+	i++;
+	     }
+		
+	while(i <= 10);
+	}
+}
+
+output :-
+          Even Numbers
+0
+2
+4
+6
+8
+10

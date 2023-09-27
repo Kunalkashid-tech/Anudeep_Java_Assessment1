@@ -1,0 +1,26 @@
+package Anudeep_pro.java;
+   // Java program to find odd numbers between 1 to 10 numbers using for loop.
+public class Q9_A_Java_Ass {
+
+    public static void main(String[] args) {
+		
+	System.out.println("Odd Numbers");
+		
+        for(int i = 0; i <= 10; i++) {
+			
+        if(i % 2 != 0) {
+				
+        System.out.println(i);
+			}
+		}
+	}
+}
+
+
+output :-
+         Odd Numbers
+1
+3
+5
+7
+9

@@ -1,0 +1,14 @@
+package Anudeep_pro.java;
+   // Java program to find sum of five integers without using variables
+public class Q2_Java_Ass {
+       
+    public static void main(String[] args) {
+		
+        System.out.println("Sum of  Integers without using variable is : "+(5 + 10 + 5 + 30 + 50));	
+		
+	}
+}
+
+
+output :-
+         Sum of  Integers without using variable is : 100

@@ -1,0 +1,29 @@
+package Anudeep_pro.java;
+   // Java program to find sum, difference, product, quotient, remainder of two variable
+public class Q13_A_Java_Ass {
+ 
+    public static void main(String[] args) {
+		
+        int a = 10;
+	int b = 5;
+		
+	System.out.println("Sum of a + b is : "+(a+b));
+		
+	System.out.println("Difference of a - b is : "+(a - b));
+		
+	System.out.println("Product of a * b is : "+(a * b));
+		
+	System.out.println("Quotinet of a / b is : "+(a / b));
+		
+	System.out.println("Remainder of a % b is : "+(a % b));
+				
+	}
+}
+
+
+output :-
+         Sum of a + b is : 15
+         Difference of a - b is : 5
+         Product of a * b is : 50
+         Quotient of a / b is : 2
+         Remainder of a % b is : 0

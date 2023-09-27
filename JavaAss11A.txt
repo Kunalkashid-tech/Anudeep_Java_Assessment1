@@ -1,0 +1,24 @@
+package Anudeep_pro.java;
+   // Java program to find area and perimeter of rectangle 
+public class Q11_A_Java_Ass {
+
+    public static void main(String[] args) {
+		
+        int length = 4;
+	int breadth = 8;
+	int perimeter, area;
+		
+	area = length * breadth;
+        perimeter = 2 * length + breadth;
+		
+	System.out.println("Area of rectangle without using method is : "+area);
+		
+	System.out.println("Perimeter of rectangle without using method is : "+perimeter);
+		
+	}
+}
+
+
+output :-
+         Area of rectangle without using method is : 32
+         Perimeter of rectangle without using method is : 16

@@ -1,0 +1,17 @@
+package Anudeep_pro.java;
+
+public class Q4_Java_Ass {
+       // Java program to find sum of two float variables
+    public static void main(String[] args) {
+
+	float num1 = 6.0f;
+	float num2 = 3.0f;
+		
+	System.out.println("Sum of two float variables is : "+(num1 + num2));
+		
+	}
+}
+
+
+output :-
+          Sum of two float variables is : 9.0
